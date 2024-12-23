@@ -1,4 +1,4 @@
-# Rose-Scrubs-Customization-
+![image](https://github.com/user-attachments/assets/132aa6b0-6b78-4dc3-bbb9-2482a74aaeba)# Rose-Scrubs-Customization-
 The Rosa Scrubs Figma design showcases a sleek and user-friendly interface tailored for an eCommerce platform. It emphasizes clean aesthetics, intuitive navigation, and a professional layout, designed to enhance the shopping experience for healthcare professionals seeking high-quality scrubs and workwear.
 # Rosa Scrubs - Stylish Workwear for Professionals
 
@@ -44,6 +44,9 @@ The homepage was designed to be visually engaging and user-friendly, featuring:
 
 ### 3. **Fully Responsive Design**
    - Ensured the platform delivers an optimized and seamless user experience across all devices, including desktops, tablets, and mobiles.
+
+
+![image](https://github.com/user-attachments/assets/d138cedc-1f2b-45b5-8d5d-bdb4eb632862)
 
 ### 4. **Detailed Product Pages**
    - Built product pages showcasing multiple images, size guides, and material details.
