@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/132aa6b0-6b78-4dc3-bbb9-2482a74aaeba)# Rose-Scrubs-Customization-
+# Rose-Scrubs-Customization-
 The Rosa Scrubs Figma design showcases a sleek and user-friendly interface tailored for an eCommerce platform. It emphasizes clean aesthetics, intuitive navigation, and a professional layout, designed to enhance the shopping experience for healthcare professionals seeking high-quality scrubs and workwear.
 # Rosa Scrubs - Stylish Workwear for Professionals
 
@@ -46,7 +46,7 @@ The homepage was designed to be visually engaging and user-friendly, featuring:
    - Ensured the platform delivers an optimized and seamless user experience across all devices, including desktops, tablets, and mobiles.
 
 
-![image](https://github.com/user-attachments/assets/d138cedc-1f2b-45b5-8d5d-bdb4eb632862)
+![image](https://github.com/user-attachments/assets/b26e003d-3c54-44cf-8500-bd4b4485fd87)
 
 ### 4. **Detailed Product Pages**
    - Built product pages showcasing multiple images, size guides, and material details.
@@ -63,7 +63,15 @@ The homepage was designed to be visually engaging and user-friendly, featuring:
    - Optimized the platform for search engines with meta tags, descriptions, and clean URLs.
    - Keywords: BigCommerce expert, medical scrubs eCommerce, professional workwear store, stylish scrubs online.
 
-### 8. **Newsletter Subscription**
+### 8. Build Your Set
+
+- Introduced a personalized bundle feature where customers can select scrub colors, top sizes, pant sizes, and matching accessories.
+- Provided a streamlined customization process to enhance convenience and style.
+- Integrated secure checkout for a hassle-free shopping experience.
+
+ ![image](https://github.com/user-attachments/assets/c4de6134-201a-45a0-8fd9-5084ec973dbb)
+
+### 9. **Newsletter Subscription**
    - Added a newsletter form to capture leads and engage with customers through email marketing.
 
 ![image](https://github.com/user-attachments/assets/de8ffb2c-8f8c-4f68-a291-f4fe9eb0d1c3)
